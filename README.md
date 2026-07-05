@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -33,13 +34,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0787-cheapest-flights-within-k-stops) |
+## Topological Sort
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
