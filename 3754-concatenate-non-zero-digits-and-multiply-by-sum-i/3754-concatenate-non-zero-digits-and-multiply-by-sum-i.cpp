@@ -1,28 +1,31 @@
 class Solution {
 public:
-    long long reverseNumber(long long n) {
-        long long rev = 0;
-        while (n > 0) {
-            rev = rev * 10 + (n % 10);
-            n /= 10;
+    long long reverse(long long n){
+        long long x=0;
+        while(n){
+            int y=n%10;
+            n=n/10;
+            x=x*10+y;
+
         }
-        return rev;
+        return x;
+
     }
 
-    long long sumAndMultiply(int n) {
-        long long sum = 0;
-        long long num = 0;
-
-        while (n > 0) {
-            int digit = n % 10;
-            if (digit != 0) {
-                sum += digit;
-                num = num * 10 + digit;
+    long long sumAndMultiply(long long n) {
+        long long  sum=0;
+        long long  r=0;
+        while(n){
+            long long x=n%10;
+            if(x!=0){
+            sum+=x;
+            r=r*10+x;
             }
-            n /= 10;
-        }
+            n=n/10;
+ } 
+     long long a=reverse(r);
+     return sum*a;
 
-        long long rev = reverseNumber(num);
-        return sum * rev;
+        
     }
 };
