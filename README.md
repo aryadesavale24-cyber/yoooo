@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0040-combination-sum-ii) |
 | [0542-01-matrix](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0721-accounts-merge) |
 | [1020-number-of-enclaves](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1020-number-of-enclaves) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0721-accounts-merge) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
