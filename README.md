@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0316-remove-duplicate-letters) |
 | [0721-accounts-merge](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0721-accounts-merge) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -105,4 +106,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0040-combination-sum-ii) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0316-remove-duplicate-letters) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
