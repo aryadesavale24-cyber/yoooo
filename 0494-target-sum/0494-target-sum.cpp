@@ -1,6 +1,6 @@
 class Solution {
 public:
-    unordered_map<string, int> dp;
+    map<pair<int,int>, int> dp;
 
     int dfs(vector<int>& nums, int ind, int target) {
 
@@ -11,16 +11,14 @@ public:
             return 0;
         }
 
-        string key = to_string(ind) + "#" + to_string(target);
-
-        if (dp.find(key) != dp.end())
-            return dp[key];
+        if (dp.count({ind, target}))
+            return dp[{ind, target}];
 
         int plus = dfs(nums, ind - 1, target - nums[ind]);
 
         int minus = dfs(nums, ind - 1, target + nums[ind]);
 
-        return dp[key] = plus + minus;
+        return dp[{ind, target}] = plus + minus;
     }
 
     int findTargetSumWays(vector<int>& nums, int target) {
