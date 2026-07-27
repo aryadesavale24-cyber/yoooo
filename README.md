@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0316-remove-duplicate-letters) |
 | [0721-accounts-merge](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0721-accounts-merge) |
+| [0796-rotate-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0796-rotate-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0287-find-the-duplicate-number) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
