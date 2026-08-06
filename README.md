@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0721-accounts-merge) |
+| [0904-fruit-into-baskets](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0904-fruit-into-baskets) |
 | [1020-number-of-enclaves](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0721-accounts-merge) |
+| [0904-fruit-into-baskets](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1757-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
