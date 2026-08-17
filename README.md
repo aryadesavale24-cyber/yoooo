@@ -181,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0904-fruit-into-baskets) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
