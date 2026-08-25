@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1661-average-time-of-process-per-machine](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1978-employees-whose-manager-left-the-company) |
