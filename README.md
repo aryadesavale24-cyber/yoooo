@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0063-unique-paths-ii) |
+| [0115-distinct-subsequences](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0322-coin-change](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0322-coin-change) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0316-remove-duplicate-letters) |
 | [0721-accounts-merge](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0796-rotate-string) |
