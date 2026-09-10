@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryadesavale24-cyber/yoooo/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/aryadesavale24-cyber/yoooo/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryadesavale24-cyber/yoooo/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -221,4 +223,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryadesavale24-cyber/yoooo/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
