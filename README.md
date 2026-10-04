@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0796-rotate-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aryadesavale24-cyber/yoooo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -149,12 +151,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0678-valid-parenthesis-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aryadesavale24-cyber/yoooo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Monotonic Stack
 |  |
@@ -242,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
