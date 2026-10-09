@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0796-rotate-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aryadesavale24-cyber/yoooo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -153,12 +154,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0907-sum-of-subarray-minimums) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aryadesavale24-cyber/yoooo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Monotonic Stack
 |  |
@@ -250,4 +253,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
