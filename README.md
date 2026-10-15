@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union-Find
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aryadesavale24-cyber/yoooo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Monotonic Stack
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0287-find-the-duplicate-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -222,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
 | ------- |
