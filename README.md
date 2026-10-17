@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Backtracking
 |  |
 | ------- |
