@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0287-find-the-duplicate-number](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0287-find-the-duplicate-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0079-word-search) |
 | [0542-01-matrix](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0079-word-search) |
 | [0721-accounts-merge](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0721-accounts-merge) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1020-number-of-enclaves) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0678-valid-parenthesis-string) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0494-target-sum) |
 ## Stack
 |  |
