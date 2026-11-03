@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3169-count-days-without-meetings](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3169-count-days-without-meetings) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3665-twisted-mirror-path-count) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3169-count-days-without-meetings](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3169-count-days-without-meetings) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Backtracking
 |  |
