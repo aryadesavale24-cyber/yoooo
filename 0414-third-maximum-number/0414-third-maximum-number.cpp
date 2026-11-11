@@ -1,22 +1,42 @@
+
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
 
-        int i = nums.size() - 1;
-        int count = 1;
+        long long max1 = -10000000000LL;
+        long long max2 = -10000000000LL;
+        long long max3 = -10000000000LL;
 
-        while (i > 0) {
-            if (nums[i] != nums[i - 1]) {
-                count++;
+        for (int i = 0; i < nums.size(); i++) {
 
-                if (count == 3)
-                    return nums[i - 1];
+            // Skip duplicates
+            if (max1 != -10000000000LL && nums[i] == max1)
+                continue;
+
+            if (max2 != -10000000000LL && nums[i] == max2)
+                continue;
+
+            if (max3 != -10000000000LL && nums[i] == max3)
+                continue;
+
+            if (nums[i] > max1) {
+                max3 = max2;
+                max2 = max1;
+                max1 = nums[i];
             }
-
-            i--;
+            else if (nums[i] > max2) {
+                max3 = max2;
+                max2 = nums[i];
+            }
+            else if (nums[i] > max3) {
+                max3 = nums[i];
+            }
         }
 
-        return nums[nums.size() - 1];
+        // If fewer than 3 distinct elements exist
+        if (max3 == -10000000000LL)
+            return static_cast<int>(max1);
+
+        return static_cast<int>(max3);
     }
 };
