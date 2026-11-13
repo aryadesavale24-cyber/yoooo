@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0628-maximum-product-of-three-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
