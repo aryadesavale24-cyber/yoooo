@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0216-combination-sum-iii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0414-third-maximum-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0217-contains-duplicate) |
 | [0721-accounts-merge](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0047-permutations-ii) |
+| [0217-contains-duplicate](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0628-maximum-product-of-three-numbers) |
