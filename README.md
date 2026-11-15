@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3169-count-days-without-meetings](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3169-count-days-without-meetings) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aryadesavale24-cyber/yoooo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3665-twisted-mirror-path-count](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3665-twisted-mirror-path-count) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0628-maximum-product-of-three-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aryadesavale24-cyber/yoooo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3364-minimum-positive-sum-subarray) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
