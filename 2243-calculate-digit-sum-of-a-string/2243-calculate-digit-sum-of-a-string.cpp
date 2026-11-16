@@ -1,29 +1,27 @@
 
 class Solution {
 public:
-    int calculateSum(string str) {
-        int sum = 0;
-
-        for (char ch : str) {
-            sum += ch - '0';
-        }
-
-        return sum;
-    }
-
     string digitSum(string s, int k) {
 
         while (s.length() > k) {
 
             string temp = "";
 
-            for (int i = 0; i < s.length(); i += k) {
+            int sum = 0;
+            int count = 0;
 
-                string group = s.substr(i, k);
+            for (int i = 0; i < s.length(); i++) {
 
-                int sum = calculateSum(group);
+                sum += s[i] - '0';
+                count++;
 
-                temp += to_string(sum);
+                if (count == k || i == s.length() - 1) {
+
+                    temp += to_string(sum);
+
+                    sum = 0;
+                    count = 0;
+                }
             }
 
             s = temp;
