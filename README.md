@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0079-word-search) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0494-target-sum) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aryadesavale24-cyber/yoooo/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/aryadesavale24-cyber/yoooo/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
